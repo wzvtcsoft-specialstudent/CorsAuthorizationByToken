@@ -1,0 +1,2 @@
+# CorsAuthorizationByToken
+前后端分离模式下跨域token身份认证demo
